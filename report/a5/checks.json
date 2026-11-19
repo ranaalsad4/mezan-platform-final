@@ -1,0 +1,42 @@
+[
+ [
+  "Full regression suite (Python 3.12, current packages)",
+  "103 of 103 passed, 0 failed, 0 skipped (90 before A5; 12 new A5 tests plus an extended app test; tests written for v1.2 values now run under the v1.2 profile)"
+ ],
+ [
+  "Minimum declared versions (Python 3.11, NumPy 2.0, SciPy 1.13, pandas 2.2.2)",
+  "103 of 103 passed"
+ ],
+ [
+  "Fault injection",
+  "24 of 24 deliberate errors detected, including 4 A5 faults (PV degradation dropped, leak-management cost dropped, comparison profile leaking after an exception, MAC ignoring degraded output)"
+ ],
+ [
+  "v1.2 reproduction",
+  "use_profile('v1.2') reproduces every v1.2 decision and NPV exactly (D1 A+B, NPV SAR 337,931; D3 A+C+D; D4 infeasible, minimum budget SAR 5,202,423; P(target) A+B 0.90275) and restores the register afterwards"
+ ],
+ [
+  "Independent financial checks",
+  "17 of 17 explicit year-by-year recomputations (NPV, degraded annuity, MAC, B-C overlap on a shared activity ledger) agree to machine precision"
+ ],
+ [
+  "MILP vs enumeration (v1.3)",
+  "Identical optimum in every tested budget/target case"
+ ],
+ [
+  "Excel workbook recalculation (LibreOffice)",
+  "920 formulas, 0 errors; 19 sheets including Source Register and A5 Changes"
+ ],
+ [
+  "Python / Excel / Word cross-check",
+  "149 checks; Excel 124 compared, 0 mismatches; Word 46 compared, 0 missing"
+ ],
+ [
+  "A4 missing-data study rerun under v1.3",
+  "Complete synthetic data reproduce the v1.3 pipeline exactly; calibration and change-detection results unchanged (they do not depend on the register)"
+ ],
+ [
+  "Clean extraction of the delivered ZIP",
+  "Fresh unzip: run_all.py, 103 of 103 tests and build_a5_register.py reproduce; all data-file hashes equal the manifest; A5 summary byte-identical"
+ ]
+]

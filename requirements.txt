@@ -1,0 +1,14 @@
+# Minimum versions verified by the A1 audit (Python 3.11 and 3.12). Exact tested versions: requirements-lock.txt
+# v2.0: no new packages. v3.0: scikit-learn added for the AI layer; requests (installed with Streamlit) is used only
+# for the optional language-model explanation.
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2.2
+openpyxl>=3.1
+matplotlib>=3.9
+plotly>=5.18
+streamlit>=1.49
+reportlab>=4.0      # v3.1: direct PDF export of the executive report
+pillow>=10.0        # v3.1: brand assets (favicon)
+scikit-learn>=1.5     # v3: AI layer (Isolation Forest, TF-IDF + logistic regression, ridge / random forest challengers)
+pytest>=8.0

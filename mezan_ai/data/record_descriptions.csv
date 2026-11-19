@@ -1,0 +1,577 @@
+description,stream,template
+SEC electricity bill account 6305-980,electricity,electricity#0
+SEC electricity bill account 9779-106,electricity,electricity#0
+SEC electricity bill account 2408-454,electricity,electricity#0
+SEC electricity bill account 1968-856,electricity,electricity#0
+SEC electricity bill account 1812-236,electricity,electricity#0
+SEC electricity bill account 3363-563,electricity,electricity#0
+Saudi Electricity Company invoice Apr,electricity,electricity#1
+Saudi Electricity Company invoice 2026-07,electricity,electricity#1
+Saudi Electricity Company invoice Jun,electricity,electricity#1
+Saudi Electricity Company invoice Q2,electricity,electricity#1
+Saudi Electricity Company invoice Jun,electricity,electricity#1
+Saudi Electricity Company invoice Mar,electricity,electricity#1
+Grid power import main meter M38,electricity,electricity#2
+Grid power import main meter M4,electricity,electricity#2
+Grid power import main meter M23,electricity,electricity#2
+Grid power import main meter M32,electricity,electricity#2
+Grid power import main meter M26,electricity,electricity#2
+Grid power import main meter M36,electricity,electricity#2
+Electric energy consumption MDB-11,electricity,electricity#3
+Electric energy consumption MDB-4,electricity,electricity#3
+Electric energy consumption MDB-5,electricity,electricity#3
+Electric energy consumption MDB-10,electricity,electricity#3
+Electric energy consumption MDB-11,electricity,electricity#3
+Electric energy consumption MDB-11,electricity,electricity#3
+Utility electricity kWh reading Jul,electricity,electricity#4
+Utility electricity kWh reading Jan,electricity,electricity#4
+Utility electricity kWh reading Jul,electricity,electricity#4
+Utility electricity kWh reading Dec,electricity,electricity#4
+Utility electricity kWh reading FY25,electricity,electricity#4
+Utility electricity kWh reading Sep,electricity,electricity#4
+Power purchase - national grid,electricity,electricity#5
+Power purchase - national grid,electricity,electricity#5
+Power purchase - national grid,electricity,electricity#5
+Power purchase - national grid,electricity,electricity#5
+Power purchase - national grid,electricity,electricity#5
+Power purchase - national grid,electricity,electricity#5
+Main incomer energy meter M22,electricity,electricity#6
+Main incomer energy meter M6,electricity,electricity#6
+Main incomer energy meter M28,electricity,electricity#6
+Main incomer energy meter M6,electricity,electricity#6
+Main incomer energy meter M38,electricity,electricity#6
+Main incomer energy meter M2,electricity,electricity#6
+Electricity charges Plant 1 plant,electricity,electricity#7
+Electricity charges Plant 1 plant,electricity,electricity#7
+Electricity charges Sudair plant,electricity,electricity#7
+Electricity charges Riyadh plant,electricity,electricity#7
+Electricity charges Jubail plant,electricity,electricity#7
+Electricity charges Riyadh plant,electricity,electricity#7
+كهرباء فاتورة الشركة السعودية للكهرباء Feb,electricity,electricity#8
+كهرباء فاتورة الشركة السعودية للكهرباء Nov,electricity,electricity#8
+كهرباء فاتورة الشركة السعودية للكهرباء FY25,electricity,electricity#8
+كهرباء فاتورة الشركة السعودية للكهرباء 2026-07,electricity,electricity#8
+كهرباء فاتورة الشركة السعودية للكهرباء Aug,electricity,electricity#8
+كهرباء فاتورة الشركة السعودية للكهرباء May,electricity,electricity#8
+استهلاك الطاقة الكهربائية Dammam,electricity,electricity#9
+استهلاك الطاقة الكهربائية PLANT-01,electricity,electricity#9
+استهلاك الطاقة الكهربائية PLANT-01,electricity,electricity#9
+استهلاك الطاقة الكهربائية Riyadh,electricity,electricity#9
+استهلاك الطاقة الكهربائية Jubail,electricity,electricity#9
+استهلاك الطاقة الكهربائية Dammam,electricity,electricity#9
+Grid electricity substation 7 reading,electricity,electricity#10
+Grid electricity substation 12 reading,electricity,electricity#10
+Grid electricity substation 5 reading,electricity,electricity#10
+Grid electricity substation 1 reading,electricity,electricity#10
+Grid electricity substation 9 reading,electricity,electricity#10
+Grid electricity substation 4 reading,electricity,electricity#10
+Monthly power bill SEC 9701-787,electricity,electricity#11
+Monthly power bill SEC 6685-832,electricity,electricity#11
+Monthly power bill SEC 9284-574,electricity,electricity#11
+Monthly power bill SEC 2741-684,electricity,electricity#11
+Monthly power bill SEC 4525-245,electricity,electricity#11
+Monthly power bill SEC 6694-65,electricity,electricity#11
+Natural gas supply Aramco Mar,natural_gas,natural_gas#0
+Natural gas supply Aramco Q2,natural_gas,natural_gas#0
+Natural gas supply Aramco Dec,natural_gas,natural_gas#0
+Natural gas supply Aramco Oct,natural_gas,natural_gas#0
+Natural gas supply Aramco Mar,natural_gas,natural_gas#0
+Natural gas supply Aramco Jan,natural_gas,natural_gas#0
+Fuel gas to furnace line 1,natural_gas,natural_gas#1
+Fuel gas to furnace line 7,natural_gas,natural_gas#1
+Fuel gas to furnace line 12,natural_gas,natural_gas#1
+Fuel gas to furnace line 12,natural_gas,natural_gas#1
+Fuel gas to furnace line 2,natural_gas,natural_gas#1
+Fuel gas to furnace line 11,natural_gas,natural_gas#1
+Methane delivery meter M5,natural_gas,natural_gas#2
+Methane delivery meter M17,natural_gas,natural_gas#2
+Methane delivery meter M5,natural_gas,natural_gas#2
+Methane delivery meter M22,natural_gas,natural_gas#2
+Methane delivery meter M32,natural_gas,natural_gas#2
+Methane delivery meter M30,natural_gas,natural_gas#2
+NG consumption burner 8,natural_gas,natural_gas#3
+NG consumption burner 7,natural_gas,natural_gas#3
+NG consumption burner 12,natural_gas,natural_gas#3
+NG consumption burner 12,natural_gas,natural_gas#3
+NG consumption burner 1,natural_gas,natural_gas#3
+NG consumption burner 5,natural_gas,natural_gas#3
+Gas invoice - process heating Riyadh,natural_gas,natural_gas#4
+Gas invoice - process heating Riyadh,natural_gas,natural_gas#4
+Gas invoice - process heating Jubail,natural_gas,natural_gas#4
+Gas invoice - process heating Jubail,natural_gas,natural_gas#4
+Gas invoice - process heating Sudair,natural_gas,natural_gas#4
+Gas invoice - process heating Sudair,natural_gas,natural_gas#4
+Pipeline gas offtake 2026-07,natural_gas,natural_gas#5
+Pipeline gas offtake May,natural_gas,natural_gas#5
+Pipeline gas offtake Sep,natural_gas,natural_gas#5
+Pipeline gas offtake 2025-03,natural_gas,natural_gas#5
+Pipeline gas offtake FY25,natural_gas,natural_gas#5
+Pipeline gas offtake May,natural_gas,natural_gas#5
+Reheat furnace gas meter M21,natural_gas,natural_gas#6
+Reheat furnace gas meter M27,natural_gas,natural_gas#6
+Reheat furnace gas meter M4,natural_gas,natural_gas#6
+Reheat furnace gas meter M6,natural_gas,natural_gas#6
+Reheat furnace gas meter M28,natural_gas,natural_gas#6
+Reheat furnace gas meter M38,natural_gas,natural_gas#6
+غاز طبيعي توريد أرامكو Q2,natural_gas,natural_gas#7
+غاز طبيعي توريد أرامكو Apr,natural_gas,natural_gas#7
+غاز طبيعي توريد أرامكو Feb,natural_gas,natural_gas#7
+غاز طبيعي توريد أرامكو Mar,natural_gas,natural_gas#7
+غاز طبيعي توريد أرامكو Jan,natural_gas,natural_gas#7
+غاز طبيعي توريد أرامكو Nov,natural_gas,natural_gas#7
+استهلاك الغاز للأفران Riyadh,natural_gas,natural_gas#8
+استهلاك الغاز للأفران 2nd Industrial City,natural_gas,natural_gas#8
+استهلاك الغاز للأفران PLANT-01,natural_gas,natural_gas#8
+استهلاك الغاز للأفران Plant 1,natural_gas,natural_gas#8
+استهلاك الغاز للأفران 2nd Industrial City,natural_gas,natural_gas#8
+استهلاك الغاز للأفران Yanbu,natural_gas,natural_gas#8
+Natural gas sales gas statement 4658-506,natural_gas,natural_gas#9
+Natural gas sales gas statement 1890-228,natural_gas,natural_gas#9
+Natural gas sales gas statement 1985-198,natural_gas,natural_gas#9
+Natural gas sales gas statement 2300-963,natural_gas,natural_gas#9
+Natural gas sales gas statement 1522-329,natural_gas,natural_gas#9
+Natural gas sales gas statement 2785-12,natural_gas,natural_gas#9
+Burner fuel gas GJ Jul,natural_gas,natural_gas#10
+Burner fuel gas GJ FY25,natural_gas,natural_gas#10
+Burner fuel gas GJ FY25,natural_gas,natural_gas#10
+Burner fuel gas GJ 2025-03,natural_gas,natural_gas#10
+Burner fuel gas GJ Mar,natural_gas,natural_gas#10
+Burner fuel gas GJ Feb,natural_gas,natural_gas#10
+Process heat gas supply contract 5872-13,natural_gas,natural_gas#11
+Process heat gas supply contract 8630-986,natural_gas,natural_gas#11
+Process heat gas supply contract 9135-197,natural_gas,natural_gas#11
+Process heat gas supply contract 6370-891,natural_gas,natural_gas#11
+Process heat gas supply contract 7417-780,natural_gas,natural_gas#11
+Process heat gas supply contract 8892-575,natural_gas,natural_gas#11
+Forklift fleet fuel card 5339-649,diesel_forklift,diesel_forklift#0
+Forklift fleet fuel card 8323-187,diesel_forklift,diesel_forklift#0
+Forklift fleet fuel card 9823-877,diesel_forklift,diesel_forklift#0
+Forklift fleet fuel card 7110-270,diesel_forklift,diesel_forklift#0
+Forklift fleet fuel card 5019-251,diesel_forklift,diesel_forklift#0
+Forklift fleet fuel card 2061-415,diesel_forklift,diesel_forklift#0
+Diesel material handling vehicles Apr,diesel_forklift,diesel_forklift#1
+Diesel material handling vehicles Oct,diesel_forklift,diesel_forklift#1
+Diesel material handling vehicles Mar,diesel_forklift,diesel_forklift#1
+Diesel material handling vehicles Jan,diesel_forklift,diesel_forklift#1
+Diesel material handling vehicles Nov,diesel_forklift,diesel_forklift#1
+Diesel material handling vehicles Jul,diesel_forklift,diesel_forklift#1
+Fuel card statement forklifts Riyadh,diesel_forklift,diesel_forklift#2
+Fuel card statement forklifts Sudair,diesel_forklift,diesel_forklift#2
+Fuel card statement forklifts Plant 1,diesel_forklift,diesel_forklift#2
+Fuel card statement forklifts Plant 1,diesel_forklift,diesel_forklift#2
+Fuel card statement forklifts 2nd Industrial City,diesel_forklift,diesel_forklift#2
+Fuel card statement forklifts Sudair,diesel_forklift,diesel_forklift#2
+Forklift diesel refuelling bay 3,diesel_forklift,diesel_forklift#3
+Forklift diesel refuelling bay 2,diesel_forklift,diesel_forklift#3
+Forklift diesel refuelling bay 9,diesel_forklift,diesel_forklift#3
+Forklift diesel refuelling bay 5,diesel_forklift,diesel_forklift#3
+Forklift diesel refuelling bay 11,diesel_forklift,diesel_forklift#3
+Forklift diesel refuelling bay 7,diesel_forklift,diesel_forklift#3
+MHE diesel issue Jul,diesel_forklift,diesel_forklift#4
+MHE diesel issue May,diesel_forklift,diesel_forklift#4
+MHE diesel issue Nov,diesel_forklift,diesel_forklift#4
+MHE diesel issue Aug,diesel_forklift,diesel_forklift#4
+MHE diesel issue Jun,diesel_forklift,diesel_forklift#4
+MHE diesel issue Q2,diesel_forklift,diesel_forklift#4
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+Yard vehicles diesel fuel card,diesel_forklift,diesel_forklift#5
+ديزل الرافعات الشوكية FY25,diesel_forklift,diesel_forklift#6
+ديزل الرافعات الشوكية Feb,diesel_forklift,diesel_forklift#6
+ديزل الرافعات الشوكية Nov,diesel_forklift,diesel_forklift#6
+ديزل الرافعات الشوكية Dec,diesel_forklift,diesel_forklift#6
+ديزل الرافعات الشوكية 2025-03,diesel_forklift,diesel_forklift#6
+ديزل الرافعات الشوكية Nov,diesel_forklift,diesel_forklift#6
+وقود معدات المناولة PLANT-01,diesel_forklift,diesel_forklift#7
+وقود معدات المناولة Sudair,diesel_forklift,diesel_forklift#7
+وقود معدات المناولة 2nd Industrial City,diesel_forklift,diesel_forklift#7
+وقود معدات المناولة Plant 1,diesel_forklift,diesel_forklift#7
+وقود معدات المناولة Plant 1,diesel_forklift,diesel_forklift#7
+وقود معدات المناولة Riyadh,diesel_forklift,diesel_forklift#7
+Lift truck diesel dispensing 11,diesel_forklift,diesel_forklift#8
+Lift truck diesel dispensing 1,diesel_forklift,diesel_forklift#8
+Lift truck diesel dispensing 3,diesel_forklift,diesel_forklift#8
+Lift truck diesel dispensing 3,diesel_forklift,diesel_forklift#8
+Lift truck diesel dispensing 10,diesel_forklift,diesel_forklift#8
+Lift truck diesel dispensing 3,diesel_forklift,diesel_forklift#8
+Forklifts fuel consumption warehouse 12,diesel_forklift,diesel_forklift#9
+Forklifts fuel consumption warehouse 12,diesel_forklift,diesel_forklift#9
+Forklifts fuel consumption warehouse 11,diesel_forklift,diesel_forklift#9
+Forklifts fuel consumption warehouse 5,diesel_forklift,diesel_forklift#9
+Forklifts fuel consumption warehouse 9,diesel_forklift,diesel_forklift#9
+Forklifts fuel consumption warehouse 3,diesel_forklift,diesel_forklift#9
+Diesel for loaders and forklifts Aug,diesel_forklift,diesel_forklift#10
+Diesel for loaders and forklifts Jan,diesel_forklift,diesel_forklift#10
+Diesel for loaders and forklifts Mar,diesel_forklift,diesel_forklift#10
+Diesel for loaders and forklifts Apr,diesel_forklift,diesel_forklift#10
+Diesel for loaders and forklifts Feb,diesel_forklift,diesel_forklift#10
+Diesel for loaders and forklifts Dec,diesel_forklift,diesel_forklift#10
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Fleet fuel - handling equipment,diesel_forklift,diesel_forklift#11
+Standby generator diesel Oct,diesel_genset,diesel_genset#0
+Standby generator diesel Feb,diesel_genset,diesel_genset#0
+Standby generator diesel Jun,diesel_genset,diesel_genset#0
+Standby generator diesel Jul,diesel_genset,diesel_genset#0
+Standby generator diesel Apr,diesel_genset,diesel_genset#0
+Standby generator diesel Mar,diesel_genset,diesel_genset#0
+Genset fuel top-up DG-9,diesel_genset,diesel_genset#1
+Genset fuel top-up DG-9,diesel_genset,diesel_genset#1
+Genset fuel top-up DG-11,diesel_genset,diesel_genset#1
+Genset fuel top-up DG-4,diesel_genset,diesel_genset#1
+Genset fuel top-up DG-4,diesel_genset,diesel_genset#1
+Genset fuel top-up DG-12,diesel_genset,diesel_genset#1
+Emergency generator diesel delivery Jubail,diesel_genset,diesel_genset#2
+Emergency generator diesel delivery Plant 1,diesel_genset,diesel_genset#2
+Emergency generator diesel delivery Jubail,diesel_genset,diesel_genset#2
+Emergency generator diesel delivery Riyadh,diesel_genset,diesel_genset#2
+Emergency generator diesel delivery Plant 1,diesel_genset,diesel_genset#2
+Emergency generator diesel delivery Sudair,diesel_genset,diesel_genset#2
+Backup power DG set fuel 2026-07,diesel_genset,diesel_genset#3
+Backup power DG set fuel Jun,diesel_genset,diesel_genset#3
+Backup power DG set fuel Apr,diesel_genset,diesel_genset#3
+Backup power DG set fuel 2026-07,diesel_genset,diesel_genset#3
+Backup power DG set fuel Jun,diesel_genset,diesel_genset#3
+Backup power DG set fuel Sep,diesel_genset,diesel_genset#3
+Diesel for generator 8 test run,diesel_genset,diesel_genset#4
+Diesel for generator 6 test run,diesel_genset,diesel_genset#4
+Diesel for generator 9 test run,diesel_genset,diesel_genset#4
+Diesel for generator 7 test run,diesel_genset,diesel_genset#4
+Diesel for generator 10 test run,diesel_genset,diesel_genset#4
+Diesel for generator 4 test run,diesel_genset,diesel_genset#4
+DG set fuel tank refill M5,diesel_genset,diesel_genset#5
+DG set fuel tank refill M23,diesel_genset,diesel_genset#5
+DG set fuel tank refill M31,diesel_genset,diesel_genset#5
+DG set fuel tank refill M28,diesel_genset,diesel_genset#5
+DG set fuel tank refill M23,diesel_genset,diesel_genset#5
+DG set fuel tank refill M40,diesel_genset,diesel_genset#5
+ديزل المولد الاحتياطي Oct,diesel_genset,diesel_genset#6
+ديزل المولد الاحتياطي Dec,diesel_genset,diesel_genset#6
+ديزل المولد الاحتياطي Oct,diesel_genset,diesel_genset#6
+ديزل المولد الاحتياطي Q2,diesel_genset,diesel_genset#6
+ديزل المولد الاحتياطي Mar,diesel_genset,diesel_genset#6
+ديزل المولد الاحتياطي Jul,diesel_genset,diesel_genset#6
+وقود مولدات الطوارئ Yanbu,diesel_genset,diesel_genset#7
+وقود مولدات الطوارئ Yanbu,diesel_genset,diesel_genset#7
+وقود مولدات الطوارئ Yanbu,diesel_genset,diesel_genset#7
+وقود مولدات الطوارئ Sudair,diesel_genset,diesel_genset#7
+وقود مولدات الطوارئ Riyadh,diesel_genset,diesel_genset#7
+وقود مولدات الطوارئ Riyadh,diesel_genset,diesel_genset#7
+Generator fuel log 2,diesel_genset,diesel_genset#8
+Generator fuel log 7,diesel_genset,diesel_genset#8
+Generator fuel log 5,diesel_genset,diesel_genset#8
+Generator fuel log 6,diesel_genset,diesel_genset#8
+Generator fuel log 12,diesel_genset,diesel_genset#8
+Generator fuel log 12,diesel_genset,diesel_genset#8
+Standby power diesel genset Apr,diesel_genset,diesel_genset#9
+Standby power diesel genset 2025-03,diesel_genset,diesel_genset#9
+Standby power diesel genset Q2,diesel_genset,diesel_genset#9
+Standby power diesel genset Apr,diesel_genset,diesel_genset#9
+Standby power diesel genset Oct,diesel_genset,diesel_genset#9
+Standby power diesel genset Feb,diesel_genset,diesel_genset#9
+Emergency power fuel purchase 7898-599,diesel_genset,diesel_genset#10
+Emergency power fuel purchase 3544-496,diesel_genset,diesel_genset#10
+Emergency power fuel purchase 4477-927,diesel_genset,diesel_genset#10
+Emergency power fuel purchase 2993-999,diesel_genset,diesel_genset#10
+Emergency power fuel purchase 1291-292,diesel_genset,diesel_genset#10
+Emergency power fuel purchase 6994-802,diesel_genset,diesel_genset#10
+Diesel generator runtime fuel M3,diesel_genset,diesel_genset#11
+Diesel generator runtime fuel M20,diesel_genset,diesel_genset#11
+Diesel generator runtime fuel M37,diesel_genset,diesel_genset#11
+Diesel generator runtime fuel M24,diesel_genset,diesel_genset#11
+Diesel generator runtime fuel M18,diesel_genset,diesel_genset#11
+Diesel generator runtime fuel M39,diesel_genset,diesel_genset#11
+Finished output tonnes 2026-07,production,production#0
+Finished output tonnes Q2,production,production#0
+Finished output tonnes 2026-07,production,production#0
+Finished output tonnes May,production,production#0
+Finished output tonnes FY25,production,production#0
+Finished output tonnes 2025-03,production,production#0
+Production finished fabricated steel Jubail,production,production#1
+Production finished fabricated steel Plant 1,production,production#1
+Production finished fabricated steel 2nd Industrial City,production,production#1
+Production finished fabricated steel PLANT-01,production,production#1
+Production finished fabricated steel Yanbu,production,production#1
+Production finished fabricated steel PLANT-01,production,production#1
+Shipped tonnage line 1,production,production#2
+Shipped tonnage line 2,production,production#2
+Shipped tonnage line 4,production,production#2
+Shipped tonnage line 9,production,production#2
+Shipped tonnage line 11,production,production#2
+Shipped tonnage line 4,production,production#2
+Good output from line 4,production,production#3
+Good output from line 1,production,production#3
+Good output from line 2,production,production#3
+Good output from line 10,production,production#3
+Good output from line 7,production,production#3
+Good output from line 4,production,production#3
+Monthly production report Jul,production,production#4
+Monthly production report May,production,production#4
+Monthly production report Nov,production,production#4
+Monthly production report Nov,production,production#4
+Monthly production report May,production,production#4
+Monthly production report May,production,production#4
+Fabrication output tonnes Yanbu,production,production#5
+Fabrication output tonnes Yanbu,production,production#5
+Fabrication output tonnes Plant 1,production,production#5
+Fabrication output tonnes Dammam,production,production#5
+Fabrication output tonnes PLANT-01,production,production#5
+Fabrication output tonnes Sudair,production,production#5
+الإنتاج النهائي بالطن Sep,production,production#6
+الإنتاج النهائي بالطن Aug,production,production#6
+الإنتاج النهائي بالطن Sep,production,production#6
+الإنتاج النهائي بالطن Jan,production,production#6
+الإنتاج النهائي بالطن Dec,production,production#6
+الإنتاج النهائي بالطن FY25,production,production#6
+كمية الإنتاج PLANT-01,production,production#7
+كمية الإنتاج Jubail,production,production#7
+كمية الإنتاج Riyadh,production,production#7
+كمية الإنتاج Riyadh,production,production#7
+كمية الإنتاج Dammam,production,production#7
+كمية الإنتاج Riyadh,production,production#7
+Finished goods production Jan,production,production#8
+Finished goods production Dec,production,production#8
+Finished goods production Q2,production,production#8
+Finished goods production 2025-03,production,production#8
+Finished goods production Q2,production,production#8
+Finished goods production Feb,production,production#8
+Net production weight line 10,production,production#9
+Net production weight line 4,production,production#9
+Net production weight line 6,production,production#9
+Net production weight line 3,production,production#9
+Net production weight line 1,production,production#9
+Net production weight line 2,production,production#9
+Despatched finished products 2026-07,production,production#10
+Despatched finished products Jun,production,production#10
+Despatched finished products May,production,production#10
+Despatched finished products Oct,production,production#10
+Despatched finished products Aug,production,production#10
+Despatched finished products FY25,production,production#10
+Output tonnage ERP production order 6466-236,production,production#11
+Output tonnage ERP production order 1194-956,production,production#11
+Output tonnage ERP production order 9051-286,production,production#11
+Output tonnage ERP production order 3597-574,production,production#11
+Output tonnage ERP production order 9470-407,production,production#11
+Output tonnage ERP production order 3531-436,production,production#11
+Plant operating hours FY25,operating_hours,operating_hours#0
+Plant operating hours 2026-07,operating_hours,operating_hours#0
+Plant operating hours May,operating_hours,operating_hours#0
+Plant operating hours Q2,operating_hours,operating_hours#0
+Plant operating hours 2025-03,operating_hours,operating_hours#0
+Plant operating hours Jun,operating_hours,operating_hours#0
+Run hours line 6,operating_hours,operating_hours#1
+Run hours line 1,operating_hours,operating_hours#1
+Run hours line 10,operating_hours,operating_hours#1
+Run hours line 10,operating_hours,operating_hours#1
+Run hours line 4,operating_hours,operating_hours#1
+Run hours line 10,operating_hours,operating_hours#1
+Production line running time PLANT-01,operating_hours,operating_hours#2
+Production line running time Plant 1,operating_hours,operating_hours#2
+Production line running time Sudair,operating_hours,operating_hours#2
+Production line running time Sudair,operating_hours,operating_hours#2
+Production line running time Riyadh,operating_hours,operating_hours#2
+Production line running time Riyadh,operating_hours,operating_hours#2
+Operating time shift log Apr,operating_hours,operating_hours#3
+Operating time shift log Sep,operating_hours,operating_hours#3
+Operating time shift log Apr,operating_hours,operating_hours#3
+Operating time shift log Jun,operating_hours,operating_hours#3
+Operating time shift log Jan,operating_hours,operating_hours#3
+Operating time shift log Jun,operating_hours,operating_hours#3
+Machine hours main line 7,operating_hours,operating_hours#4
+Machine hours main line 1,operating_hours,operating_hours#4
+Machine hours main line 3,operating_hours,operating_hours#4
+Machine hours main line 7,operating_hours,operating_hours#4
+Machine hours main line 4,operating_hours,operating_hours#4
+Machine hours main line 4,operating_hours,operating_hours#4
+Plant uptime hours 2025-03,operating_hours,operating_hours#5
+Plant uptime hours Nov,operating_hours,operating_hours#5
+Plant uptime hours Apr,operating_hours,operating_hours#5
+Plant uptime hours Oct,operating_hours,operating_hours#5
+Plant uptime hours Jan,operating_hours,operating_hours#5
+Plant uptime hours Sep,operating_hours,operating_hours#5
+ساعات التشغيل Dec,operating_hours,operating_hours#6
+ساعات التشغيل FY25,operating_hours,operating_hours#6
+ساعات التشغيل Sep,operating_hours,operating_hours#6
+ساعات التشغيل Jul,operating_hours,operating_hours#6
+ساعات التشغيل May,operating_hours,operating_hours#6
+ساعات التشغيل Aug,operating_hours,operating_hours#6
+ساعات تشغيل خط الإنتاج 2,operating_hours,operating_hours#7
+ساعات تشغيل خط الإنتاج 5,operating_hours,operating_hours#7
+ساعات تشغيل خط الإنتاج 3,operating_hours,operating_hours#7
+ساعات تشغيل خط الإنتاج 11,operating_hours,operating_hours#7
+ساعات تشغيل خط الإنتاج 5,operating_hours,operating_hours#7
+ساعات تشغيل خط الإنتاج 1,operating_hours,operating_hours#7
+Operating hours MES report 4245-785,operating_hours,operating_hours#8
+Operating hours MES report 3943-588,operating_hours,operating_hours#8
+Operating hours MES report 6718-968,operating_hours,operating_hours#8
+Operating hours MES report 1775-260,operating_hours,operating_hours#8
+Operating hours MES report 2411-437,operating_hours,operating_hours#8
+Operating hours MES report 6718-979,operating_hours,operating_hours#8
+Line run time May,operating_hours,operating_hours#9
+Line run time Jun,operating_hours,operating_hours#9
+Line run time Dec,operating_hours,operating_hours#9
+Line run time May,operating_hours,operating_hours#9
+Line run time Q2,operating_hours,operating_hours#9
+Line run time May,operating_hours,operating_hours#9
+Shift operating hours Dammam,operating_hours,operating_hours#10
+Shift operating hours Plant 1,operating_hours,operating_hours#10
+Shift operating hours Plant 1,operating_hours,operating_hours#10
+Shift operating hours Dammam,operating_hours,operating_hours#10
+Shift operating hours Jubail,operating_hours,operating_hours#10
+Shift operating hours PLANT-01,operating_hours,operating_hours#10
+Total operating hours plant FY25,operating_hours,operating_hours#11
+Total operating hours plant Mar,operating_hours,operating_hours#11
+Total operating hours plant Jan,operating_hours,operating_hours#11
+Total operating hours plant Jun,operating_hours,operating_hours#11
+Total operating hours plant Dec,operating_hours,operating_hours#11
+Total operating hours plant Sep,operating_hours,operating_hours#11
+Steel coil purchase Bahri Logistics,steel_purchased,steel_purchased#0
+Steel coil purchase vendor 1047,steel_purchased,steel_purchased#0
+Steel coil purchase Bahri Logistics,steel_purchased,steel_purchased#0
+Steel coil purchase vendor 1047,steel_purchased,steel_purchased#0
+Steel coil purchase Jubail Steel Co,steel_purchased,steel_purchased#0
+Steel coil purchase carrier 22,steel_purchased,steel_purchased#0
+Purchased steel plate receipt PO 5845-14,steel_purchased,steel_purchased#1
+Purchased steel plate receipt PO 8681-97,steel_purchased,steel_purchased#1
+Purchased steel plate receipt PO 7575-994,steel_purchased,steel_purchased#1
+Purchased steel plate receipt PO 7899-985,steel_purchased,steel_purchased#1
+Purchased steel plate receipt PO 6626-553,steel_purchased,steel_purchased#1
+Purchased steel plate receipt PO 3407-686,steel_purchased,steel_purchased#1
+Raw material steel delivery Q2,steel_purchased,steel_purchased#2
+Raw material steel delivery Jul,steel_purchased,steel_purchased#2
+Raw material steel delivery Apr,steel_purchased,steel_purchased#2
+Raw material steel delivery Q2,steel_purchased,steel_purchased#2
+Raw material steel delivery Mar,steel_purchased,steel_purchased#2
+Raw material steel delivery 2025-03,steel_purchased,steel_purchased#2
+Hot rolled coil receipt Al-Rajhi Steel,steel_purchased,steel_purchased#3
+Hot rolled coil receipt Bahri Logistics,steel_purchased,steel_purchased#3
+Hot rolled coil receipt supplier A,steel_purchased,steel_purchased#3
+Hot rolled coil receipt local mill,steel_purchased,steel_purchased#3
+Hot rolled coil receipt Bahri Logistics,steel_purchased,steel_purchased#3
+Hot rolled coil receipt supplier A,steel_purchased,steel_purchased#3
+Steel sections purchase order 1559-957,steel_purchased,steel_purchased#4
+Steel sections purchase order 1348-868,steel_purchased,steel_purchased#4
+Steel sections purchase order 2208-829,steel_purchased,steel_purchased#4
+Steel sections purchase order 3363-612,steel_purchased,steel_purchased#4
+Steel sections purchase order 1226-35,steel_purchased,steel_purchased#4
+Steel sections purchase order 1580-86,steel_purchased,steel_purchased#4
+Incoming steel tonnage Q2,steel_purchased,steel_purchased#5
+Incoming steel tonnage Jul,steel_purchased,steel_purchased#5
+Incoming steel tonnage Dec,steel_purchased,steel_purchased#5
+Incoming steel tonnage Jan,steel_purchased,steel_purchased#5
+Incoming steel tonnage Aug,steel_purchased,steel_purchased#5
+Incoming steel tonnage 2025-03,steel_purchased,steel_purchased#5
+مشتريات الحديد Al-Rajhi Steel,steel_purchased,steel_purchased#6
+مشتريات الحديد vendor 1047,steel_purchased,steel_purchased#6
+مشتريات الحديد Jubail Steel Co,steel_purchased,steel_purchased#6
+مشتريات الحديد Bahri Logistics,steel_purchased,steel_purchased#6
+مشتريات الحديد vendor 1047,steel_purchased,steel_purchased#6
+مشتريات الحديد local mill,steel_purchased,steel_purchased#6
+استلام لفائف الصلب Mar,steel_purchased,steel_purchased#7
+استلام لفائف الصلب Jul,steel_purchased,steel_purchased#7
+استلام لفائف الصلب Dec,steel_purchased,steel_purchased#7
+استلام لفائف الصلب Jun,steel_purchased,steel_purchased#7
+استلام لفائف الصلب Jan,steel_purchased,steel_purchased#7
+استلام لفائف الصلب Oct,steel_purchased,steel_purchased#7
+Rebar and plate purchases supplier A,steel_purchased,steel_purchased#8
+Rebar and plate purchases local mill,steel_purchased,steel_purchased#8
+Rebar and plate purchases Jubail Steel Co,steel_purchased,steel_purchased#8
+Rebar and plate purchases vendor 1047,steel_purchased,steel_purchased#8
+Rebar and plate purchases Bahri Logistics,steel_purchased,steel_purchased#8
+Rebar and plate purchases Jubail Steel Co,steel_purchased,steel_purchased#8
+Steel raw material goods receipt 1917-435,steel_purchased,steel_purchased#9
+Steel raw material goods receipt 4448-156,steel_purchased,steel_purchased#9
+Steel raw material goods receipt 9825-706,steel_purchased,steel_purchased#9
+Steel raw material goods receipt 5224-842,steel_purchased,steel_purchased#9
+Steel raw material goods receipt 5559-380,steel_purchased,steel_purchased#9
+Steel raw material goods receipt 2634-681,steel_purchased,steel_purchased#9
+Purchased structural steel Jan,steel_purchased,steel_purchased#10
+Purchased structural steel Jul,steel_purchased,steel_purchased#10
+Purchased structural steel Jun,steel_purchased,steel_purchased#10
+Purchased structural steel FY25,steel_purchased,steel_purchased#10
+Purchased structural steel Nov,steel_purchased,steel_purchased#10
+Purchased structural steel Dec,steel_purchased,steel_purchased#10
+Steel billet purchase local mill,steel_purchased,steel_purchased#11
+Steel billet purchase carrier 22,steel_purchased,steel_purchased#11
+Steel billet purchase Bahri Logistics,steel_purchased,steel_purchased#11
+Steel billet purchase Jubail Steel Co,steel_purchased,steel_purchased#11
+Steel billet purchase Al-Rajhi Steel,steel_purchased,steel_purchased#11
+Steel billet purchase vendor 1047,steel_purchased,steel_purchased#11
+Inbound road freight tonne-km May,freight,freight#0
+Inbound road freight tonne-km Jan,freight,freight#0
+Inbound road freight tonne-km Jun,freight,freight#0
+Inbound road freight tonne-km 2025-03,freight,freight#0
+Inbound road freight tonne-km May,freight,freight#0
+Inbound road freight tonne-km Jan,freight,freight#0
+Logistics truck haulage Hadeed,freight,freight#1
+Logistics truck haulage Jubail Steel Co,freight,freight#1
+Logistics truck haulage supplier A,freight,freight#1
+Logistics truck haulage supplier A,freight,freight#1
+Logistics truck haulage local mill,freight,freight#1
+Logistics truck haulage Jubail Steel Co,freight,freight#1
+Transport of raw materials Sep,freight,freight#2
+Transport of raw materials 2025-03,freight,freight#2
+Transport of raw materials Sep,freight,freight#2
+Transport of raw materials Apr,freight,freight#2
+Transport of raw materials Nov,freight,freight#2
+Transport of raw materials FY25,freight,freight#2
+Trucking inbound tkm statement 7206-373,freight,freight#3
+Trucking inbound tkm statement 2179-653,freight,freight#3
+Trucking inbound tkm statement 6697-544,freight,freight#3
+Trucking inbound tkm statement 9663-382,freight,freight#3
+Trucking inbound tkm statement 3823-166,freight,freight#3
+Trucking inbound tkm statement 7246-380,freight,freight#3
+Road haulage raw steel Bahri Logistics,freight,freight#4
+Road haulage raw steel Bahri Logistics,freight,freight#4
+Road haulage raw steel vendor 1047,freight,freight#4
+Road haulage raw steel carrier 22,freight,freight#4
+Road haulage raw steel Hadeed,freight,freight#4
+Road haulage raw steel local mill,freight,freight#4
+Freight carrier inbound shipments FY25,freight,freight#5
+Freight carrier inbound shipments Dec,freight,freight#5
+Freight carrier inbound shipments Oct,freight,freight#5
+Freight carrier inbound shipments May,freight,freight#5
+Freight carrier inbound shipments Mar,freight,freight#5
+Freight carrier inbound shipments FY25,freight,freight#5
+نقل بري للمواد الخام FY25,freight,freight#6
+نقل بري للمواد الخام Jan,freight,freight#6
+نقل بري للمواد الخام Oct,freight,freight#6
+نقل بري للمواد الخام Aug,freight,freight#6
+نقل بري للمواد الخام Jul,freight,freight#6
+نقل بري للمواد الخام Feb,freight,freight#6
+شحن بالشاحنات Al-Rajhi Steel,freight,freight#7
+شحن بالشاحنات supplier A,freight,freight#7
+شحن بالشاحنات carrier 22,freight,freight#7
+شحن بالشاحنات local mill,freight,freight#7
+شحن بالشاحنات Bahri Logistics,freight,freight#7
+شحن بالشاحنات Bahri Logistics,freight,freight#7
+Inbound logistics tonne kilometre 1838-756,freight,freight#8
+Inbound logistics tonne kilometre 6301-46,freight,freight#8
+Inbound logistics tonne kilometre 4430-831,freight,freight#8
+Inbound logistics tonne kilometre 4329-69,freight,freight#8
+Inbound logistics tonne kilometre 3244-893,freight,freight#8
+Inbound logistics tonne kilometre 3689-520,freight,freight#8
+Haulage services raw material Apr,freight,freight#9
+Haulage services raw material Aug,freight,freight#9
+Haulage services raw material Feb,freight,freight#9
+Haulage services raw material Aug,freight,freight#9
+Haulage services raw material Jul,freight,freight#9
+Haulage services raw material 2025-03,freight,freight#9
+Supplier delivery transport vendor 1047,freight,freight#10
+Supplier delivery transport supplier A,freight,freight#10
+Supplier delivery transport Hadeed,freight,freight#10
+Supplier delivery transport local mill,freight,freight#10
+Supplier delivery transport local mill,freight,freight#10
+Supplier delivery transport Hadeed,freight,freight#10
+Road transport statement May,freight,freight#11
+Road transport statement FY25,freight,freight#11
+Road transport statement Oct,freight,freight#11
+Road transport statement Jun,freight,freight#11
+Road transport statement Apr,freight,freight#11
+Road transport statement Dec,freight,freight#11

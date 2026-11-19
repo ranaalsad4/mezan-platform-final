@@ -1,0 +1,12 @@
+[
+ ["Full regression suite (Python 3.12, current packages), A6", "123 of 123 passed, 0 failed, 0 skipped (A4 tests: 32)"],
+ ["Minimum declared versions (Python 3.11, NumPy 2.0, SciPy 1.13, pandas 2.2.2)", "123 of 123 passed"],
+ ["Complete synthetic data through the A4 path", "Reproduces the v1.3 pipeline exactly (D1-D4 A+B+C; D1 NPV SAR 1,563,087; target sd 0)"],
+ ["Independent recomputation of coverage (A6)", "Held-out base set: 94.92% of 8,346 masked gaps covered with the calibration factor 1.0898, identical to the reported value"],
+ ["Independent change-detection test (A6)", "On simple step series not produced by the A4 generator the model and a separately written permutation test agree (detection rates within 1.5 points); false alarms at most 0.5%"],
+ ["Propagation into the decision (A6)", "Target sd 8.80 t (model) vs 8.79 t from share x sqrt(sum (EF x sd)^2) with rounded sds"],
+ ["Fault injection", "28 of 28 deliberate errors detected"],
+ ["A4 workbook recalculation", "765 formulas, 0 errors"],
+ ["Streamlit", "AppTest and screenshots from a live server with the v1.3 register; the app evaluates 20 plausible datasets (report: 40), so its agreement figure can differ (90% vs 95%)"],
+ ["Google Colab", "Not run on Google Colab itself (A1-01 still pending)"]
+]

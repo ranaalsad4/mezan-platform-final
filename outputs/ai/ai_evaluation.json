@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "fast": false,
+  "generated_by": "tools/evaluate_ai.py",
+  "data": "synthetic only",
+  "seconds": 125.4
+ },
+ "classification": {
+  "corpus_rows": 576,
+  "templates": 96,
+  "rules_coverage": 0.8211805555555556,
+  "rules_accuracy_when_decided": 1.0,
+  "ml_grouped_cv_accuracy": 0.8142361111111112,
+  "hybrid_grouped_cv_accuracy": 0.9670138888888888,
+  "demo_export": {
+   "records": 190,
+   "correct": 188,
+   "unresolved": 2,
+   "wrong": 0,
+   "by_method": {
+    "rule": 177,
+    "ml": 11,
+    "unresolved": 2
+   }
+  },
+  "note": "Grouped CV holds out whole description templates. Corpus is curated synthetic text, not company records."
+ },
+ "anomaly": {
+  "facilities": 60,
+  "injected": 40,
+  "clean": 20,
+  "rule_detection_rate": 0.8,
+  "rule_false_alarms_per_year": 0.65,
+  "if_detection_rate_0.50": 0.95,
+  "if_false_alarms_per_year_0.50": 4.133333333333334,
+  "combined_detection_rate_0.50": 0.95,
+  "if_detection_rate_0.55": 0.775,
+  "if_false_alarms_per_year_0.55": 1.1,
+  "combined_detection_rate_0.55": 0.875,
+  "if_detection_rate_0.60": 0.175,
+  "if_false_alarms_per_year_0.60": 0.15,
+  "combined_detection_rate_0.60": 0.8,
+  "detection_by_injected_factor": [
+   {
+    "factor": 0.6,
+    "rule": 0.6666666666666666,
+    "if_0.50": 1.0,
+    "if_0.55": 0.7777777777777778,
+    "if_0.60": 0.3333333333333333
+   },
+   {
+    "factor": 1.3,
+    "rule": 0.75,
+    "if_0.50": 0.8333333333333334,
+    "if_0.55": 0.5833333333333334,
+    "if_0.60": 0.16666666666666666
+   },
+   {
+    "factor": 1.5,
+    "rule": 0.9285714285714286,
+    "if_0.50": 1.0,
+    "if_0.55": 0.8571428571428571,
+    "if_0.60": 0.14285714285714285
+   },
+   {
+    "factor": 2.0,
+    "rule": 0.8,
+    "if_0.50": 1.0,
+    "if_0.55": 1.0,
+    "if_0.60": 0.0
+   }
+  ]
+ },
+ "imputation": {
+  "facilities": 30,
+  "gaps": 180,
+  "gaps_with_both": 175,
+  "statistical_mape": 0.0546132962285676,
+  "ml_mape": 0.04675617660956389,
+  "gated_policy_mape": 0.04813956701937327,
+  "gate_pass_share": 0.3657142857142857,
+  "where_gate_passed": {
+   "n": 64,
+   "statistical_mape": 0.06495857911698008,
+   "ml_mape": 0.04725697581058931
+  },
+  "by_stream": [
+   {
+    "stream": "diesel_forklift",
+    "stat_ape": 0.0562,
+    "ml_ape": 0.0492,
+    "gated_ape": 0.0529
+   },
+   {
+    "stream": "electricity",
+    "stat_ape": 0.07,
+    "ml_ape": 0.0479,
+    "gated_ape": 0.0513
+   },
+   {
+    "stream": "natural_gas",
+    "stat_ape": 0.0372,
+    "ml_ape": 0.043,
+    "gated_ape": 0.0399
+   }
+  ],
+  "backtest_error_mean": {
+   "statistical": 0.05819430285714286,
+   "ridge": 0.05725699361247755,
+   "forest": 0.06117365799609195
+  },
+  "selected_model_counts": {
+   "ridge": 116,
+   "forest": 59
+  },
+  "true_error_by_selected_model": [
+   {
+    "selected_model": "forest",
+    "stat_ape": 0.0476,
+    "ml_ape": 0.0495
+   },
+   {
+    "selected_model": "ridge",
+    "stat_ape": 0.0582,
+    "ml_ape": 0.0454
+   }
+  ]
+ }
+}

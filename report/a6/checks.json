@@ -1,0 +1,34 @@
+[
+ [
+  "Full regression suite (Python 3.12, current packages)",
+  "123 of 123 passed, 0 failed, 0 skipped (20 new A6 tests)"
+ ],
+ [
+  "Minimum declared versions (Python 3.11, NumPy 2.0, SciPy 1.13, pandas 2.2.2)",
+  "123 of 123 passed"
+ ],
+ [
+  "Fault injection",
+  "28 of 28 deliberate errors detected (4 new in A6: finite-input guard, IRR with degradation, annuity edge, B-C overlap life)"
+ ],
+ [
+  "Python vs main Excel workbook vs complete Word report (tools/crosscheck.py)",
+  "149 checks; Excel 124 compared, 0 mismatches; Word 46 compared, 0 missing; 920 formulas, 0 errors"
+ ],
+ [
+  "Independent spreadsheet (Mezan_A6_Independent_Calculations.xlsx)",
+  "1,023 formulas recalculated by LibreOffice, 0 errors; 52 of 52 comparisons with Python pass"
+ ],
+ [
+  "Consistency scan of Word reports and Streamlit (tools/consistency_a6.py)",
+  "4 Word reports + Streamlit (all tabs, AppTest at 20,000 scenarios): 30 of 30 applicable current figures found (recommendation, D1 NPV, E[NPV], baseline, target, budget probability, grid factor); 0 stale v1.2 statements; app ran without exceptions"
+ ],
+ [
+  "A4 report",
+  "Regenerated with the v1.3 register in A6 (it previously reported v1.2 results)"
+ ],
+ [
+  "Google Colab",
+  "Not run on Google Colab itself (A1-01): the README cell was executed in IPython in a fresh environment in A1 only"
+ ]
+]
